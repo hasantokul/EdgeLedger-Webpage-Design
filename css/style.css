@@ -49,6 +49,7 @@ img {
     position: fixed;
     top: 0px;
     padding: 0 30px;
+    
 }
 
 .navbar a {
@@ -67,6 +68,10 @@ img {
 
 .navbar .logo {
     font-weight: 400;
+}
+
+.top {
+    background: transparent;
 }
 
 .hero {
@@ -114,7 +119,7 @@ img {
 
 .blog {
     background: url("../image_resources/home/blog.jpg") no-repeat center center/cover;
-    height: 50vh;
+    height: 100%;
 }
 
 .icons {
